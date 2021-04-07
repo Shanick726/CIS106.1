@@ -68,10 +68,5 @@
 ## Rev
 * used for reversing the characters position in a given text.
 
-## The basics of Nano
-* nano is a text editor you can use straight from the command line. You can navigate using the arrows on keyboard.
 
-
-## The basics of Vim
-* vim is also a file editor used on the command line to edit codes.
 * 
