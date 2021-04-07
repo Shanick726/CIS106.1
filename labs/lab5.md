@@ -1,6 +1,6 @@
 # Lab 5 | Handling Text Files
 
-##Questin 1
+## Questin 1
 **1.**
 ![img1](lab5imgs/l5q1a1.png)
 **2.**
@@ -13,7 +13,7 @@
 ![img5](lab5imgs/l5q1a5.png)
 
 
-##Questin 2
+## Questin 2
 **1.**
 ![img6](lab5imgs/l5q2a1.png)
 **2.**
@@ -25,7 +25,7 @@
 **5.**
 ![img10](lab5imgs/l5q2a5.png)
 
-##Questin 3
+## Questin 3
 **1.**
 ![img11](lab5imgs/l5q3a1.png)
 **2.**
@@ -37,7 +37,7 @@
 **5.**
 ![img15](lab5imgs/l5q3a5.png)
 
-##Questin 4
+## Questin 4
 **1.**
 ![img16](lab5imgs/l5q4a1.png)
 **2.**
@@ -49,7 +49,7 @@
 **5.**
 ![img20](lab5imgs/l5q4a5.png)
 
-##Questin 5
+## Questin 5
 **1.**
 ![img21](lab5imgs/l5q5.1.png)
 **2.**
