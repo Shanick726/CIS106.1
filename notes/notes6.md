@@ -158,8 +158,11 @@ List contents of an archive
   * Gzip, bzip2, and xz compares files in place meaning the original file is deleted after compression.
   * **bzip2** offers better compression ratio then gzip
   * **xz** produces better compression ratios than gzip and bzip2.
+  #### gzip
   ![gzip](Notesimg/gizp.png)
+  #### bzip2
   ![bzip2](Notesimg/bzip2.png)
+  #### xz
   ![xz](Notesimg/xz.png)
 
 
