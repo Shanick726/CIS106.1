@@ -165,5 +165,49 @@ List contents of an archive
   #### xz
   ![xz](Notesimg/xz.png)
 
+  ## File compression | zip,7zip, and rar
+  * zip is an archiving and compression utility
+  * to use : zip + archiveName.zip + files to include in archive
+  * to unarchive use : unzip archive.zip
+* 7zip 
+  * to use : 7z + option + fileName.7z + files to archive
+* Rar is a pproprietart archive file format. allows linux users to extract rar archives
+  * to use : unrar + option + filename.rar
+  
+  ## File Permissions | file ownership
+  * a file can be owned only by one user and one group
+  * **ls -l** shows u=you the file user owner and group owner
+  * the **/etc/passwd** file contains a list of all the users in linux
+  * the **/etc/group** file contains a list of all the group in linux
+  * the **chown** command is used for changing group owner.
+    * *syntax* : chown user: group file
+    * EX0
+      * chown john file.txt
+      * chown :marketinGroup file.tex
+      * chown john:marketinGroup file.txt
+  #### Ls -l output review
+  ![ls-l](Notesimg/fileperm.png)
+  #### File Permission
+  ![fileperm](Notesimg/fileperm2.png)
+  #### Files vs Directories
+  ![filvsd](Notesimg/flvsdir.png)
+
+  * the hyphen (-) represents a permission that hasn't been granted.
+  ### The chmod command
+  * is used to change permission on files and directories
+  * the permission argument is the info used to change permission
+  * the file/direc argument specifies the file or direc tou want to change
+  * you can use chmod in two ways to change permission
+    * Symbolic notation
+    * Numeric notation
+  
+  #### Symbolic Notation
+  ![symno](Notesimg/symno.png)
+  
+  #### Numeric Notation 
+  ![nunod1](Notesimg/numnod1.png)
+
+  ![numnod2](Notesimg/numnod2.png)
+
 
   
