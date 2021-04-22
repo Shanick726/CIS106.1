@@ -23,4 +23,3 @@
 ![img1](lab7img/l7q4.1.png)
 ![img2](lab7img/l7q4.2.png)
 ![img3](lab7img/l7q4.3.png)
-
