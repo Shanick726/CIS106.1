@@ -20,12 +20,18 @@ In this project we will provide the steps and material necessary for installing 
 * Linux distribution : Ubuntu 20.04.2
 * LAMP Stack (latest)
 * Wordpress (latest)
+
 ## Environment
-**Host**
+* **Host**
+
 ![hostcomp](FPP/compinfo.PNG)
-**Virtual Machine Unbuntu setup**
+
+* **Virtual Machine Unbuntu setup**
+
 ![geninfo](FPP/gensys.png)
+
 ![sysset](FPP/syset.PNG)
+
 ![sysstor](FPP/stosys.PNG)
 
 
